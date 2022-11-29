@@ -1,21 +1,19 @@
 <h1 align="center">Hola 👋, me llamo Gerónimo Mercante</h1>
 <h3 align="center">Apasionado por el desarrollo FrontEnd</h3>
 
-- 🔭 Actualmente estoy trabajando en [FedesAgency](https://fedesagency.com/)
+- 🔭 Actualmente estoy operando de manera freelance
 
-- 🌱 Actualmente estoy aprendiendo (UTN E-learning) **React, Angular, Hibernate, Ionic, Docker**
+- 🌱 Actualmente estoy aprendiendo (UTN E-learning) ** Angular, Hibernate, Ionic, Docker**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-gm.surge.sh/](https://portafolio-gm.surge.sh/)
 
-- 📝 Tengo mucho material de estudio [OneNote (Solicitar Envío)](OneNote (Solicitar Envío))
-
-- 💬 Pregúntame sobre **HTML5, CSS3, Sass(Scsss), JavaScript, PhP y SQL**
+- 💬 Mis skills sobre **HTML5, CSS3, Sass, Less, Styled-components, tailwind.css, bootstrap, React, JavaScript, PhP y SQL**
 
 - 📫 Cómo contactarte conmigo? **geronimomercante00@gmail.com**
 
 - 📄 Mis experiencias [Cuento con un año de experiencia en desarrollo FrontEnd de manera Freelance y para una empresa de la industria tech (Marketing y consultoría Digital)](Cuento con un año de experiencia en desarrollo FrontEnd de manera Freelance y para una empresa de la industria tech (Marketing y consultoría Digital))
 
-- ⚡ Energía **Soy una persona positiva y siempre busco generar una sonrisa en la otra persona**
+- ⚡ Energico **Soy una persona positiva y siempre busco generar una sonrisa en la otra persona**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
