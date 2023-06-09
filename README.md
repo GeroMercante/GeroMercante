@@ -5,7 +5,7 @@
 
 - 📫 ¿cómo contactarte conmigo? **mercantegero@gmail.com**
 
-- 🐣 **1 año de experiencia freelance** 
+- 🐣 **1 año de experiencia** 
 
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
