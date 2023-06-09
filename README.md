@@ -5,6 +5,8 @@
 
 - 📫 ¿cómo contactarte conmigo? **mercantegero@gmail.com**
 
+- 🐣 1 año de experiencia** 
+
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/GerooMercante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geromercante" height="30" width="40" /></a>
