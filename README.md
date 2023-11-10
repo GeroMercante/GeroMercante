@@ -1,11 +1,9 @@
 <h1 align="center">Gerónimo Mercante</h1>
-<h3 align="center">Desarrollador FullStack - React & Django Rest Framework</h3>
+<h3 align="center">Desarrollador Front End</h3>
 
-- 💬 Skills **HTML5, Css3, Preprocesadores CSS(sass, less, stylus), Django, Django Rest Framework, JWT, React, Redux, Python.**
+- 💬 Skills **React - Vue - Angular. Preprocesadores de estilo Sass & Stylus. Bootstrap & Tailwind**
 
-- 📫 ¿cómo contactarte conmigo? **mercantegero@gmail.com**
-
-- 🐣 **1 año de experiencia** 
+- 📫  **mercantegero@gmail.com**
 
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
