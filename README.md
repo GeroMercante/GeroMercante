@@ -1,8 +1,9 @@
 <h1 align="center">Gerónimo Mercante</h1>
-<h3 align="center">Desarrollador Front End</h3>
+<h3 align="center">Desarrollador FullStack</h3>
 
-- 💬 **React - Vue - Angular. Preprocesadores de estilo Sass & Stylus. Bootstrap & Tailwind**
-
+-  **React - Vue - Angular.**
+-  **Spring Boot - Node.**
+-  
 - 📫  **mercantegero@gmail.com**
 
 <h3 align="left">Redes sociales:</h3>
